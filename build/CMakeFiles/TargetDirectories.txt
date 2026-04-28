@@ -1,0 +1,3 @@
+/home/yalovega/Desktop/Projectsrepo/build/CMakeFiles/HelloWorld.dir
+/home/yalovega/Desktop/Projectsrepo/build/CMakeFiles/edit_cache.dir
+/home/yalovega/Desktop/Projectsrepo/build/CMakeFiles/rebuild_cache.dir
